@@ -17,8 +17,7 @@ It acts as a client for the [Kotlin Jupyter kernel](https://github.com/Kotlin/ko
 Starting from IntelliJ IDEA 2026.2, JetBrains sunsetted Kotlin Notebook as a
 product and will no longer maintain or support the plugin. The plugin remains
 available under an open-source model so the community can continue its
-development. More details will be linked here when the announcement is
-published.
+development. More details in the [blog post](https://blog.jetbrains.com/idea/2026/06/kotlin-notebook-sunset).
 
 The source in this repository reflects the latest state of the plugin. However, for technical
 reasons, the repository is not fully self-contained right now: building the plugin and running
